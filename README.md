@@ -1,4 +1,4 @@
-# MVP-Sprint1
+# MVP-Sprint2
 Repositório de entrega do MVP da Sprint 2 do curso de Ciência de Dados e Analytics da PUC-Rio
 
 Aluno: Thiago Rodrigues da Costa
